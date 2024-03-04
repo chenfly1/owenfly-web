@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>访问中_配图</title>
+    <defs>
+        <linearGradient x1="24.421875%" y1="-5.35162192e-14%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.526770105" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#C1EDE3" offset="0%"></stop>
+            <stop stop-color="#D7F2EE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="1.21257171e-13%" x2="50%" y2="94.1445313%" id="linearGradient-3">
+            <stop stop-color="#BFEDE2" offset="0%"></stop>
+            <stop stop-color="#C9EFE6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.9144621%" y1="8.90413535%" x2="85.6843889%" y2="89.5722274%" id="linearGradient-4">
+            <stop stop-color="#44D7AB" offset="0%"></stop>
+            <stop stop-color="#96F0BA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#EAFDF3" offset="0%"></stop>
+            <stop stop-color="#FAFFFC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M30.4615391,61.0062764 C33.2905553,61.0062764 36.0294978,60.6200977 38.6286633,59.8975133 C39.5512315,59.6410336 44.123964,60.7725705 52.3468607,63.292124 C53.4350152,63.6253775 54.5871884,63.0132106 54.9202543,61.9249987 C55.2101351,60.9778834 54.7851554,59.9585179 54.4815314,58.4069313 C53.5184188,53.4575222 53.0368626,50.9828177 53.0368626,50.9828177 C54.1100886,49.7972577 55.0914717,48.5267878 55.9697663,47.1826689 C59.1019587,42.3892439 60.9230781,36.6591552 60.9230781,30.5031382 C60.9230781,13.6567198 47.2849799,0 30.4615391,0 C13.6380953,0 0,13.6567198 0,30.5031382 C0,47.3495536 13.6380953,61.0062764 30.4615391,61.0062764 Z" id="path-6"></path>
+        <linearGradient x1="69.8373866%" y1="50%" x2="1.41151513e-13%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#BCEFDE" offset="0%"></stop>
+            <stop stop-color="#3CCEA2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.9144621%" y1="43.213228%" x2="85.6843889%" y2="56.5351511%" id="linearGradient-9">
+            <stop stop-color="#62DE93" offset="0%"></stop>
+            <stop stop-color="#3CCEA2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="最终" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="预约详情备-访问中" transform="translate(-558.000000, -200.000000)">
+            <g id="访问中_配图" transform="translate(558.000000, 200.000000)">
+                <circle id="椭圆形" stroke="url(#linearGradient-1)" stroke-width="19.2" cx="80" cy="80" r="70.4"></circle>
+                <circle id="椭圆形" fill-opacity="0.2" fill="url(#linearGradient-2)" cx="80" cy="80" r="61"></circle>
+                <circle id="椭圆形" fill="url(#linearGradient-3)" fill-rule="nonzero" cx="80" cy="80" r="50"></circle>
+                <g id="对话" transform="translate(48.000000, 46.000000)">
+                    <ellipse id="椭圆形" fill="url(#linearGradient-4)" fill-rule="nonzero" opacity="0.5" cx="52.5973728" cy="13.4011801" rx="13.4026272" ry="13.4011801"></ellipse>
+                    <g id="路径-2" transform="translate(0.000000, 3.688917)">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="蒙版" fill="url(#linearGradient-5)" fill-rule="nonzero" xlink:href="#path-6"></use>
+                        <path d="M39.2307702,59.7900611 C42.2482255,58.9794196 44.9097069,57.8387292 47.2152142,56.3679898 C49.5207214,54.8972505 51.4612709,53.1021931 53.0368626,50.9828177 L62.6343384,60.5460497 L58.0803223,68.5973045 L39.2307702,64.3110829 L39.2307702,59.7900611 Z" fill="url(#linearGradient-8)" opacity="0.161365327" mask="url(#mask-7)"></path>
+                    </g>
+                    <path d="M40.976153,33.5326907 C42.1226364,31.9975801 44.2927517,31.6853431 45.8232401,32.8352898 C47.3537285,33.9852366 47.665025,36.1619057 46.5185397,37.6970162 C42.836819,42.626741 37.6237842,45.145243 31.2090815,45.145243 C24.7943788,45.145243 19.5813449,42.626741 15.8996227,37.6970162 C14.7531388,36.1619057 15.0644355,33.9852366 16.5949236,32.8352898 C18.1254115,31.6853431 20.2955261,31.9975801 21.4420099,33.5326907 C23.7922168,36.6795521 26.9380265,38.1993442 31.2090815,38.1993442 C35.4801365,38.1993442 38.6259462,36.6795521 40.976153,33.5326907 Z" id="路径" fill="url(#linearGradient-9)" fill-rule="nonzero" opacity="0.6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

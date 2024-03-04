@@ -1,0 +1,40 @@
+.selecteUser-wrap {
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  .user-list-wrap {
+    flex: 1;
+    box-sizing: border-box;
+    overflow: hidden;
+    // padding-bottom: 200px;
+    // overflow-y: scroll;
+  }
+  .nut-searchbar {
+    height: 50PX;
+  }
+  .selecteUser-footer {
+    // position: fixed;
+    width: 100%;
+    height: 110PX;
+    background-color: #fff;
+    box-sizing: border-box;
+    left: 0;
+    bottom: 0;
+    padding: 30px;
+    .footer-selected {
+      margin: 20px auto;
+      .nut-tag {
+        margin: 0 10px 10px 0;
+      }
+    }
+    .footer-btns {
+      display: flex;
+      justify-content: space-between;
+      .nut-button {
+        width: 46%;
+      }
+    }
+  }
+}

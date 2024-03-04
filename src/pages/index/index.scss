@@ -1,0 +1,102 @@
+.visitorDetails-box {
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  // padding: 0 32rpx;
+  background-color: #f5f9fc;
+  .btn-wrap {
+    padding-top: 31rpx;
+    border-top: 1rpx solid #f8f8f8;
+    .nut-button--large {
+      height: 80rpx;
+    }
+  }
+  .head {
+    box-sizing: border-box;
+    // width: 100vw;
+    height: 250rpx;
+    padding: 24rpx 32rpx 0 56rpx;
+    background: linear-gradient(180deg, #c4ddfd 0%, #f5f9fc 100%);
+    .text-wrap {
+      // margin-left: 18rpx;
+      font-size: 26rpx;
+			line-height: 1;
+      font-weight: 400;
+      color: #616577;
+      > div.status-text {
+        margin-bottom: 16rpx;
+        font-size: 48rpx;
+        font-weight: 600;
+        color: #0d74ff;
+      }
+    }
+    &.status-5 {
+      background: linear-gradient(180deg, #c9efe6 0%, #f5f9fc 100%);
+      div.status-text {
+        color: #3ccea2;
+      }
+    }
+    &.status-2,
+    &.status-3,
+    &.status-4,
+    &.status-6 {
+      div.status-text {
+        color: #616577;
+      }
+      background: linear-gradient(180deg, #c8c8c8 0%, #f5f9fc 100%);
+    }
+  }
+  .visitorDetails-content {
+    box-sizing: border-box;
+    margin: 0 32rpx;
+    transform: translateY(-60rpx);
+		.code-box {
+			margin-bottom: 16rpx;
+			padding: 40rpx 24rpx 48rpx;
+			text-align: center;
+			background: #ffffff;
+    	border-radius: 16rpx;
+			.down-box {
+				font-size: 24rpx;
+				font-weight: 400;
+				color: #616577;
+				span {
+					color: #0D74FF;
+				}
+				i {
+					margin-left: 19rpx;
+					vertical-align: sub;
+				}
+			}
+			.face-text {
+				margin-top: 48rpx;
+				font-size: 24rpx;
+				font-weight: 500;
+				color: #000520;
+				line-height: 32rpx;
+			}
+		}
+		.field-wrap {
+			padding: 24rpx;
+			background: #ffffff;
+    	border-radius: 16rpx;
+			.field-item {
+				margin-bottom: 32rpx;
+				line-height: 1.2;
+				& > div:first-child {
+					width: 120rpx;
+					font-size: 24rpx;
+					font-weight: 400;
+					color: #616577;
+				}
+				& > div:last-child {
+					flex: 1;
+					font-size: 26rpx;
+					font-weight: 500;
+					color: #000520;
+				}
+			}
+		}
+
+  }
+}

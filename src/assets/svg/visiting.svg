@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>待来访_配图</title>
+    <defs>
+        <linearGradient x1="24.421875%" y1="-5.35162192e-14%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.526770105" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="80" cy="80" r="50.4"></circle>
+        <linearGradient x1="89.1272189%" y1="52.2661448%" x2="84.353727%" y2="82.6473653%" id="linearGradient-4">
+            <stop stop-color="#CCE7FE" offset="0%"></stop>
+            <stop stop-color="#BEDDFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M14.4555418,1.88550545 L62.4555414,8.14637496 C68.8308088,8.97793159 73.6,14.4095897 73.6,20.8388604 L73.6,68.7783963 C73.6,75.8476412 67.8692447,81.5783965 60.7999998,81.5783965 C60.2921154,81.5783965 59.7846811,81.5481684 59.2803885,81.4878725 L11.2803889,75.7487422 C4.84476049,74.9792648 5.44845692e-15,69.5207324 0,63.0392659 L0,14.5779909 C-8.65732814e-16,7.508746 5.73075529,1.77799071 12.8000002,1.77799071 C13.3535917,1.77799071 13.9066002,1.81390437 14.4555418,1.88550545 Z" id="path-5"></path>
+        <linearGradient x1="17.9144621%" y1="39.9459961%" x2="85.6843889%" y2="59.6812498%" id="linearGradient-7">
+            <stop stop-color="#A0C9FF" offset="0%"></stop>
+            <stop stop-color="#6DAFFC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="42.027545%" x2="50%" y2="107.540083%" id="linearGradient-8">
+            <stop stop-color="#EBF5FF" offset="0%"></stop>
+            <stop stop-color="#A9CFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M14.5689092,2.03287105 L57.7689092,8.06077803 C64.0934007,8.94326522 68.8,14.3521971 68.8,20.7379607 L68.8,68.6585102 C68.8,75.727755 63.0692448,81.4585102 56,81.4585102 C55.4570277,81.4585102 54.9146056,81.4239612 54.3760211,81.3550725 L11.1760211,75.8294911 C4.78668726,75.0122507 1.48100555e-15,69.574316 0,63.1329288 L0,14.7100537 C9.10624038e-16,7.64080892 5.7307552,1.91005371 12.8,1.91005371 C13.3917665,1.91005371 13.9828207,1.95109127 14.5689092,2.03287105 Z" id="path-9"></path>
+        <linearGradient x1="17.9144621%" y1="29.2979246%" x2="85.6843889%" y2="69.9345419%" id="linearGradient-11">
+            <stop stop-color="#6DAFFC" offset="0%"></stop>
+            <stop stop-color="#1774F2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.9144621%" y1="41.9746829%" x2="85.6843889%" y2="57.7277769%" id="linearGradient-12">
+            <stop stop-color="#6DAFFC" offset="0%"></stop>
+            <stop stop-color="#1774F2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="最终页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="预约详情-待来访" transform="translate(-558.000000, -200.000000)">
+            <g id="待来访_配图" transform="translate(558.000000, 200.000000)">
+                <circle id="椭圆形" stroke="url(#linearGradient-1)" stroke-width="19.2" opacity="0.796944754" cx="80" cy="80" r="70.4"></circle>
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="蒙版" fill="#BDD8FF" fill-rule="nonzero" xlink:href="#path-2"></use>
+                <g id="矩形" mask="url(#mask-3)">
+                    <g transform="translate(45.600000, 49.600000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="蒙版" stroke="none" fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <path d="M14.4555416,1.88550542 L62.4555416,8.14637499 C68.8308089,8.9779316 73.6,14.4095897 73.6,20.8388602 L73.6,31.2 L73.6,31.2 L65.6,36.4 L0,22.4 L0,14.5779907 C9.10624038e-16,7.50874589 5.7307552,1.77799068 12.8,1.77799068 C13.3535915,1.77799068 13.9066,1.81390434 14.4555416,1.88550542 Z" id="矩形" stroke="none" fill="url(#linearGradient-7)" fill-rule="evenodd" mask="url(#mask-6)"></path>
+                    </g>
+                </g>
+                <g id="矩形" mask="url(#mask-3)">
+                    <g transform="translate(42.400000, 56.000000)">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <use id="蒙版" stroke="none" fill="url(#linearGradient-8)" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <path d="M46.5127248,40.7481043 C47.6804937,42.4258365 47.3241853,44.7740564 45.7168884,45.9929998 L32.693188,55.8702218 C32.628637,55.9289233 32.5616346,55.9856573 32.4922014,56.0402724 C32.0209145,56.4109745 31.4906176,56.6423775 30.9466139,56.7411225 L30.7204209,56.7744768 L30.7204209,56.7744768 C29.4707263,56.927354 28.18041,56.3901577 27.3881076,55.251858 C27.3170728,55.1498021 27.2516774,55.0452661 27.1918602,54.9386531 L23.1245716,49.3035825 C21.9289291,47.6473793 22.2459205,45.2930264 23.8325918,44.0449875 C25.419263,42.7969491 27.674774,43.1278318 28.8704164,44.784035 L31.0638125,47.8223936 L41.4880225,39.9173944 C43.0953194,38.6984506 45.3449539,39.0703721 46.5127248,40.7481043 Z" id="路径备份-2" stroke="none" fill="url(#linearGradient-11)" fill-rule="nonzero" opacity="0.6" mask="url(#mask-10)"></path>
+                        <path d="M14.5689092,2.03287105 L57.7689092,8.06077803 C64.0934007,8.94326522 68.8,14.3521971 68.8,20.7379607 L68.8,30.4 L68.8,30.4 L0,21.6 L0,14.7100537 C2.68698088e-15,7.64080892 5.7307552,1.91005371 12.8,1.91005371 C13.3917665,1.91005371 13.9828207,1.95109127 14.5689092,2.03287105 Z" id="矩形" stroke="none" fill-opacity="0.8" fill="url(#linearGradient-12)" fill-rule="evenodd" mask="url(#mask-10)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
