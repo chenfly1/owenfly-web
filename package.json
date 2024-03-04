@@ -1,18 +1,9 @@
 {
-  "name": "taro3-vue3-pinia",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build:h5:prod": "cross-env MY_ENV=production taro build --type h5",
-    "build:h5:test": "cross-env MY_ENV=test taro build --type h5",
-    "build:h5:dev": "cross-env MY_ENV=dev taro build --type h5",
-    "dev:h5": "npm run build:h5:dev -- --watch",
-    "test:h5": "npm run build:h5:test -- --watch",
-    "prod:h5": "npm run build:h5:prod -- --watch",
-    "typecheck": "vue-tsc --noEmit --skipLibCheck",
-    "lint": "eslint . --fix",
-    "cz": "czg",
-    "prepare": "husky install"
+  "name": "owenfly",
+  "description": "owenfly",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenfly1/owenfly-web"
   },
   "dependencies": {
     "@babel/runtime": "7.20.1",
