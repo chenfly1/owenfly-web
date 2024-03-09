@@ -1,9 +1,10 @@
 {
-  "name": "owenfly",
+  "name": "owenfly-web",
   "description": "owenfly-web",
+  "version": "1.0.1",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/chenfly1/owenfly-web"
+    "type": "git",
+    "url": "git+https://github.com/chenfly1/owenfly-web.git"
   },
   "dependencies": {
     "@babel/runtime": "7.20.1",
