@@ -20,7 +20,7 @@ taro-vue3-pinia 是一个使用 Taro3 + Vue3 + TypeScript + NutUi + pinia + unoc
 module.exports = {
   env: {
     NODE_ENV: '"development"',
-    HTTP_URL: '"https://test-xiotspec.aciga.com.cn/api"'
+    HTTP_URL: '""'
   },
   defineConstants: {},
   mini: {},
